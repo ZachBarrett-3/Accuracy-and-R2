@@ -1,1 +1,1 @@
-This code repo accompanies an article I wrote regarding the potentially misleading nature of R^2 and Accuracy scores. To read this article, please visit my profile on Medium.com
+This repository accompanies an article I wrote regarding the potentially misleading nature of R^2 and Accuracy scores. To read this article, please visit https://medium.com/@zach.barrett5/r%C2%B2-and-accuracy-two-potentially-misleading-metrics-8c2fa662a262
